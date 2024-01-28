@@ -12,53 +12,27 @@ the camera and the face is well lit.
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* This program should run on any python compiler
+* All the libraries necessary for running the program are listed at the top of BlinkDetection.py. If these do not download automatically when the program is run, please use your compilers command to install a new library and insert the name of each library into the download command. 
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* To download the program, download BlinkDetection.py at https://github.com/tylermu/BlinkDetection/blob/main/BlinkDetection.py
+* You will also need a .dat file containing the map for the facial landmarks which can be downloaded here: https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+* Executing the program is as simple as clicking the run button, assuming all libraries have been installed. Refer to the dependencies section above for troubleshooting these libraries.
 
 ## Authors
 
-Contributors names and contact info
+Contributors names
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Cameron Doffing
 
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [GeeksForGeeks](https://www.geeksforgeeks.org/eye-blink-detection-with-opencv-python-and-dlib/)
