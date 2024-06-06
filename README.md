@@ -28,7 +28,8 @@ the camera and the face is well lit.
 
 Contributors names
 
-Cameron Doffing
+* Tyler Muchow
+* Cameron Doffing
 
 
 ## Acknowledgments
